@@ -1,0 +1,7 @@
+{
+  "name": "X-Arise Cyber Risk Intelligence Platform",
+  "description": "Continuous cyber risk quantification (FAIR model), multi-vector attack validation sandbox, dynamic post-breach financial loss modeling, vendor supply chain blast radius analysis, and landmark global breach intelligence database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
